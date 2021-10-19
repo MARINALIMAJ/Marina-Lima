@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T17:11:44.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.6" etag="qcerHwh6mt9kLWgfvVQo" type="github"><diagram id="gyunvx08QjKGtZyDEp0l">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T18:41:15.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="rClODkfEuP_9UHQmjIHM" version="15.5.6" type="github">
+  <diagram id="gyunvx08QjKGtZyDEp0l" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;FLUXO DE MOVIMENTAÇÃO - UNIÃO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="240" as="sourcePoint" />
+            <mxPoint x="80" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="340" as="sourcePoint" />
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="184.5" as="sourcePoint" />
+            <mxPoint x="80" y="184.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-29" value="&lt;b&gt;MALOTE&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-30" value="&lt;b&gt;MALOTE COM AS PROPOSTAS FISICAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-31" value="&lt;b&gt;ENVIA PELO SEDEX PARA O ENDEREÇO DA UNIÃO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-32" value="&lt;b&gt;INFORMAR A QUANTIDADE DE VIDAS E O CÓDIGO DE RASTREIO NA PLANILHA DE LOTEAMENTO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="94" y="270" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-33" value="&lt;b&gt;AGUARDAR CONFIRMAÇÃO DE RECEBIMENTO DA JANETE (União)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="94" y="330" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-34" value="&lt;b&gt;ENDEREÇO DE ENVIO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-35" value="&lt;b&gt;CONTATO - JANETE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-45" value="Praça Ótavio Rocha, 59 - Porto Alegre - RS CEP 900020-140" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-46" value="&lt;p&gt;&lt;span style=&quot;font-size: 13.3333px; background-color: rgb(255, 255, 255);&quot;&gt;+55(51) 3014-4877 | assessoriacomercial@uniaoseguradora.com.br&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="340" as="sourcePoint" />
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy-3iaJFZs8isLM0bOHk-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=17;endSize=5.79;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="340" as="sourcePoint" />
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
